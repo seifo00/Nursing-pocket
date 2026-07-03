@@ -1,0 +1,6 @@
+{
+  "name": "Nurse Pocket",
+  "description": "An offline-first professional assistant for nurses and students: dosage & infusion calculators, ECG guide, medical scores, emergency drugs, nursing protocols, quick notes with Room db, timers, and converters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
